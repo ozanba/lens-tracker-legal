@@ -12,8 +12,8 @@ These documents are published via GitHub Pages and are linked directly within th
 ## 🔗 Live Documents
 
 You can view the published policies here:  
-- **Terms of Service:** [https://ozanbagiran.github.io/lens-tracker-legal/terms.html](https://ozanbagiran.github.io/lens-tracker-legal/terms.html)  
-- **Privacy Policy:** [https://ozanbagiran.github.io/lens-tracker-legal/privacy.html](https://ozanbagiran.github.io/lens-tracker-legal/privacy.html)
+- **Terms of Service:** [https://ozanbagiran.github.io/lens-tracker-legal/terms.html](https://ozanba.github.io/lens-tracker-legal/terms.html)  
+- **Privacy Policy:** [https://ozanbagiran.github.io/lens-tracker-legal/privacy.html](https://ozanba.github.io/lens-tracker-legal/privacy.html)
 
 ## 📱 About Lens Tracker
 
